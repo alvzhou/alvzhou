@@ -2,7 +2,6 @@
 
 I'm currently in CS as a 3rd-year (Junior) at the University of British Columbia. Check out some of my projects below!
 
-Learn more about me by [Linkedin](https://linkedin.com/in/alvzhou) or [Email](mailto:alvinzhoulo@gmail.com)
 <!--
 **alvzhou/alvzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

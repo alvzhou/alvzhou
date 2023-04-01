@@ -1,10 +1,6 @@
 ### Hi! I'm Alvin 👋
 
-I'm currently in CS as a 3rd-year (Junior) at the University of British Columbia. Currently, I am
-
-- Previous Intern at Moz, an SEO company that provides marketing technology solutions to small and large enterprises
-- Focusing on back-end development in mySQL and Express, dabbled with a bit of React in between
-- Trying* to fulfill an active lifestyle by hitting the weights, or trying my hand at volleyball if time persists
+I'm currently in CS as a 3rd-year (Junior) at the University of British Columbia. Check out some of my projects below!
 
 Learn more about me by [Linkedin](https://linkedin.com/in/alvzhou) or [Email](mailto:alvinzhoulo@gmail.com)
 <!--
